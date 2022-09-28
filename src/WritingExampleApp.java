@@ -53,3 +53,17 @@ public class WritingExampleApp
 
     }
 }
+
+/* 
+Output Below...
+First name: 
+Amar
+Last name: 
+Korac
+Age: 
+25
+Do you want to add more data? Type yes or no
+no
+
+Process finished with exit code 0
+*/ 
